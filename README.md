@@ -1,13 +1,13 @@
 <img  alt="Coding" width="1000" height="300" src="https://www.pixelstalk.net/wp-content/uploads/2016/06/HD-High-Tech-Wallpaper.jpg">
 <h1 align="center">Hi 👋, I'm Deepak k mayur</h1>
-<h3 align="center">Self-taught,enthusiastic MERN-stack developer</h3>
+<h3 align="center">Self-taught,enthusiastic Full-stack developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkmayur&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkmayur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkmayur" alt="deepakkmayur" /></a> </p>
 
-- 📫 How to reach me **deepakkmayur1@gmail.com**
+- 📫 How to reach me **deepakkmayur1@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
